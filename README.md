@@ -74,4 +74,4 @@ MATLAB was not available for a side-by-side run, so the port was checked against
 
 ## License
 
-MIT, the same as the original. `LICENSE` keeps Kevin J. Kircher's copyright notice for the original code, as the MIT license requires.
+MIT, the same as the original. `LICENSE` keeps Kevin J. Kircher's copyright notice for the original code, as the MIT license requires, and adds a notice for the Python port.
